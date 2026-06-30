@@ -1,3 +1,3 @@
 # Notification System Design
-##alert
-##buzzer
+# alert
+# buzzer
